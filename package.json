@@ -1,0 +1,21 @@
+{
+  "name": "diablo-immortal-bot",
+  "version": "1.0.0",
+  "description": "bot for diablo immortal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "dist": "tsc"
+  },
+  "keywords": [
+    "diablo",
+    "immortal"
+  ],
+  "author": "Peter Huang",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "windows-ffi": "0.0.4"
+  }
+}
